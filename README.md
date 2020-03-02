@@ -1,3 +1,3 @@
-[CSS Global Order](http://tanalin.com/en/projects/css-global-order/) is a JavaScript library that implements support for visual reordering of HTML elements with the standard `order` CSS-property without need for turning-on Flexbox mechanism (`display: flex` / `display: inline-flex`) for their parent element.
+Reorders HTML elements with the standard `order` CSS-property with no need for turning-on Flexbox (`display: flex` / `inline-flex`) for their parent element.
 
-The library works in all Flexbox-capable browsers (including older browsers that support its draft versions with prefixes) and Internet Explorer 7+.
+See the project [webpage](http://tanalin.com/en/projects/css-global-order/) for details.

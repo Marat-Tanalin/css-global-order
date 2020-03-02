@@ -1,0 +1,22 @@
+{
+	"name"        : "css-global-order",
+	"version"     : "1.0.0",
+	"description" : "Reorders HTML elements with the `order` CSS-property with no need for enabling Flexbox for their parent element.",
+	"browser"     : "css-global-order.js",
+	"homepage"    : "http://tanalin.com/en/projects/css-global-order/",
+	"repository": {
+		"type"      : "git",
+		"url"       : "https://github.com/Marat-Tanalin/css-global-order.git"
+	},
+	"license"     : "MIT",
+	"author"      : "Marat Tanalin (http://tanalin.com )",
+	"keywords"    : [
+		"css",
+		"html",
+		"css-layout",
+		"layout",
+		"flexbox",
+		"order",
+		"reorder"
+	]
+}
